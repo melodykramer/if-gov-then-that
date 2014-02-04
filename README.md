@@ -1,11 +1,28 @@
 if-gov-then-that
 ================
 
-Idea: Promote gov APIs by making them dead simple and suggesting clever recipes (like IFTTT and Zapier).
+##What is this project?
 
-**Contribute!** Add your random ideas below. Here is the [list of government APIs and developer hubs](http://www.data.gov/developers/page/developer-resources).
+The goal of this project is to promote government open data by designing clever uses for government APIs. 
 
-rough brainstorming
+##Who should help?
+
+Anyone! Any level of tech skill can contribute to this project. You might be interested in joining if you want to learn more about APIs or government open data.
+
+##How can I get involved?
+
+Start by checking out the tool this idea is based on [If This Then That](http://ifttt.com). IFTTT uses some jargon that I'll be using, including trigger, action, and recipes.
+
+Then, once you understand the idea, you can contribute in a couple ways:
+
+* __Get Creative__: You could start by just brainstorming government services and how they might fit into a recipe. Perhaps browsing through [IFTTT recipes](https://ifttt.com/recipes) or [government APIs](http://catalog.data.gov/dataset?res_format=api)  could jumpstart your creativity.
+* __Find Useful Gov Data__: Look through [this list of government APIs](http://catalog.data.gov/dataset?res_format=api) for data in the APIs that could be useful for this project. Add your idea and a link to the feed in the list below.
+* __Help Organize__: You could help by organizing the list below.
+*__Learn more about APIs__: You can learn more about APIs on [Code Academy](http://codeacademy.org). (Any other good recommendations?)
+
+I'll be working on this at [Code for DC](http://codefordc.org).
+
+##Brainstorming
 
 * if census releases economic indicator above/below something
 * government status changes (opm.gov/status)
@@ -27,11 +44,3 @@ logistics/questions
 * Start by turning triggers into RSS feeds and promoting IFTTT recipes with them? Popular (albeit pointless) example: Text me when CDC reports a Zombie outbreak https://ifttt.com/recipes/48155
 * GSA is working with IFTTT now... updates appreciated...
 * Research YQL and Yahoo Pipes
-* 
-
-Get Involved!
---
-
-* I'll be working on this at [Code for DC](http://codefordc.org).
-* Go research [IFTTT](https://ifttt.com/recipes) and Zapier for cool gov recipes that already exist.
-* Edit this readme file with suggestions/ideas.
