@@ -38,7 +38,8 @@ I'll be working on this at [Code for DC](http://codefordc.org).
 * Do a "cook-off"/hackathon w/ fed devs and IFTTT folks - @erie
 * If Natural Disaster (per NOAA) then Resources (localized per GPS) (FEMA) + (CDC) + (HHS) + (Coast Guard) + (National Guard) @hobokenmartha
 * Link to Google Docs / Dropbox so that APIs with information can be downloaded easily and tracked by people who may have uses for them that we can't think of. - @mkramer
-* 
+* Connect all projects to Google Drive or Dropbox for people to collect information for future projects that we might not be aware of yet. (i.e. information about clinical trials, etc.) - @mkramer
+ * If natural disaster happens, publish data from National Map: http://catalog.data.gov/dataset/the-national-map - @mkramer
 
 logistics/questions
 --
