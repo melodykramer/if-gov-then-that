@@ -37,6 +37,8 @@ I'll be working on this at [Code for DC](http://codefordc.org).
 * "I had always envisioned agencies pushing each of their posts from any platform into an open Google Calendar so they can better see the spread of coverage between their sub-agencies, etc, and there would also be an easy to evaluate record for the public." - Justin Herman
 * Do a "cook-off"/hackathon w/ fed devs and IFTTT folks - @erie
 * If Natural Disaster (per NOAA) then Resources (localized per GPS) (FEMA) + (CDC) + (HHS) + (Coast Guard) + (National Guard) @hobokenmartha
+* Link to Google Docs / Dropbox so that APIs with information can be downloaded easily and tracked by people who may have uses for them that we can't think of. - @mkramer
+* 
 
 logistics/questions
 --
