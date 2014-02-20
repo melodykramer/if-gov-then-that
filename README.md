@@ -49,3 +49,4 @@ logistics/questions
 * GSA is working with IFTTT now... updates appreciated...
 * Research YQL and Yahoo Pipes
 * https://www.finally.io/
+* https://github.com/ottawaruby/whenbot
